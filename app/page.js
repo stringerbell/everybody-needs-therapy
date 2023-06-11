@@ -1,8 +1,8 @@
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="flex text-6xl">Everybody Needs Therapy</h1>
+    <main className="flex min-h-screen flex-col items-center justify-between p-12">
+      <h1 className="flex text-4xl sm:text-4xl md:text-5xl lg:text-6xl">Everybody Needs Therapy</h1>
       &nbsp;
       <div className="text-center">
       <p>As I put on my shoes, my coat and my hat, I hollered behind me:</p>
